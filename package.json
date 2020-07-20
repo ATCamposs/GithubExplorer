@@ -19,7 +19,9 @@
     "eslint-plugin-react-hooks": "^4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
+    "styled-components": "^5.1.1",
     "typescript": "~3.7.2"
   },
   "scripts": {
@@ -42,6 +44,7 @@
   },
   "devDependencies": {
     "@testing-library/dom": "^7.21.1",
+    "@types/react-router-dom": "^5.1.5",
     "eslint": "^7.5.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-import-resolver-typescript": "^2.0.0",
